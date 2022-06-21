@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBA8Da907bfC62dc4Fe3DDF348A15c2ee77521322",
+  "SCAN_LINK": "https://polygonscan.com/token/0xBA8Da907bfC62dc4Fe3DDF348A15c2ee77521322",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CanvasTest NFT",
+  "SYMBOL": "CT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/canvastest",
+  "SHOW_BACKGROUND": true
+}
